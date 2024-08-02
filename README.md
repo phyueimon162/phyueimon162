@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **phyueimon162/phyueimon162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 👋 Hey there, I'm Phyu Ei Mon!
@@ -16,6 +15,3 @@ I'm a mobile app developer who turns coffee into code and bugs into features! �
 - ⚡ Fun fact: When I'm not coding, I'm probably eating snacks 😄 !
 
 Let's join forces and create something ridiculously awesome! 🎉
-
-
--->
